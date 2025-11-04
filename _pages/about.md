@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.unibo.it/en'>University of Bologna</a>. Forlì, Italy. paolo.gajo2@unibo.it
+subtitle: <a href='https://www.unibo.it/en'>University of Bologna</a>. Forlì, Italy. paolo [dot] gajo2 [at] unibo [dot] it
 
 profile:
   align: right
@@ -10,9 +10,8 @@ profile:
   image_circular: false
   more_info: >
     <p>University of Bologna</p>
-    <p>Forlì Campus, Viale Filippo Corridoni 20</p>
     <p>47121 Forlì, Italy</p>
-    <p><a href="mailto:paolo.gajo2@unibo.it">paolo.gajo2@unibo.it</a></p>
+    <p>paolo [dot] gajo2 [at] unibo [dot] it</p>
 
 selected_papers: true
 social: true
