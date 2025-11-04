@@ -179,7 +179,7 @@
       "summary": "Built a semantic-based recommendation system for regional dishes using annotated geospatial data from GialloZafferano recipes.",
       "highlights": ["Graph-based semantic querying", "Custom recipe dataset"],
       "startDate": "2025-01-01",
-      "endDate": "2025-01-01",
+      "endDate": "",
       "url": "https://github.com/paolo-gajo/food-recommender"
     },
     {
@@ -187,7 +187,7 @@
       "summary": "Development of a realia-aware restaurant menu adaptation system.",
       "highlights": ["Text localization", "Regional language modeling"],
       "startDate": "2024-01-01",
-      "endDate": "2024-12-01",
+      "endDate": "",
       "url": "https://site.unibo.it/no-translate/en/the-project"
     },
     {
@@ -195,7 +195,7 @@
       "summary": "Developed an automatic subtitle segmentation model",
       "highlights": ["Subtitle segmentation", "Sequence modeling"],
       "startDate": "2023-01-01",
-      "endDate": "2023-12-01",
+      "endDate": "",
       "url": "https://github.com/paolo-gajo/subsplitter"
     }
   ],
