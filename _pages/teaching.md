@@ -12,8 +12,7 @@ nav_order: 6
 **Institution:** University of Bologna, Forlì Campus  
 
 Organized a reading group centered on the book *[Understanding Deep Learning](https://udlbook.github.io/udlbook/)*.  
-Presented and discussed selected chapters on the theoretical foundations of deep learning, with a focus on optimization, generalization, and interpretability.  
-Facilitated weekly discussions and coordinated participants' presentations to promote collaborative understanding of recent advances in neural network theory.
+Presented and discussed selected chapters on the theoretical foundations of deep learning.
 
 ---
 
@@ -22,5 +21,4 @@ Facilitated weekly discussions and coordinated participants' presentations to pr
 **Course:** *CSCI 6908 — NLP with Deep Learning*  
 **Host:** Prof. Hassan Sajjad  
 
-Delivered a lecture introducing **Geometric Deep Learning** principles and their applications to **text-to-graph** and **graph-based NLP** models.  
-Covered the theoretical background of geometric inductive biases and demonstrated their use in natural language understanding tasks, such as dependency parsing and semantic graph construction.
+Delivered a lecture introducing **Geometric Deep Learning** principles with a specific focus on graph neural networks.
