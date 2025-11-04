@@ -175,8 +175,8 @@
   ],
   "projects": [
     {
-      "name": "Local Dish Semantic Recommendation System",
-      "summary": "Built a semantic-based recommendation system for local dishes using annotated geospatial data from GialloZafferano recipes.",
+      "name": "Regional Dish Semantic Recommendation System",
+      "summary": "Built a semantic-based recommendation system for regional dishes using annotated geospatial data from GialloZafferano recipes.",
       "highlights": ["Graph-based semantic querying", "Custom recipe dataset"],
       "startDate": "2025-01-01",
       "endDate": "2025-01-01",
@@ -184,7 +184,7 @@
     },
     {
       "name": "GIARA: Gastronomy and AI for a welcoming Romagna Region",
-      "summary": "Developed a text localization system for regionally contextual terms in cultural and gastronomic texts.",
+      "summary": "Development of a realia-aware restaurant menu adaptation system.",
       "highlights": ["Text localization", "Regional language modeling"],
       "startDate": "2024-01-01",
       "endDate": "2024-12-01",
@@ -192,7 +192,7 @@
     },
     {
       "name": "Automatic Subtitle Segmenter",
-      "summary": "Created a seq2seq model to segment subtitles, trained on a custom-built dataset.",
+      "summary": "Developed an automatic subtitle segmentation model",
       "highlights": ["Subtitle segmentation", "Sequence modeling"],
       "startDate": "2023-01-01",
       "endDate": "2023-12-01",
