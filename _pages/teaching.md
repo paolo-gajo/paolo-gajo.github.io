@@ -9,7 +9,7 @@ nav_order: 6
 
 ## 2025 — Deep Learning Reading Group  
 **Role:** Organizer and Presenter  
-**Institution:** University of Bologna, Forlì Campus  
+**Institution:** University of Bologna, Forlì, Italy  
 
 Organized a reading group centered on the book *[Understanding Deep Learning](https://udlbook.github.io/udlbook/)*.  
 Presented and discussed selected chapters on the theoretical foundations of deep learning.
