@@ -36,57 +36,57 @@
     {
       "name": "Dependency Parsing is More Parameter-Efficient with Normalization",
       "publisher": "NeurIPS 2025",
-      "releaseDate": "2025-12-01",
-      "url": "",
-      "summary": "Demonstrates parameter efficiency in dependency parsing through normalization techniques."
+      "releaseDate": "2025-10-01",
+      "url": "https://arxiv.org/pdf/2505.20215?",
+      "summary": "Reduces parameter usage by 85% in SOTA dependency parsers through normalization techniques."
     },
     {
       "name": "Natural vs Programming Language in LLM Knowledge Graph Construction",
       "publisher": "Information Processing & Management",
       "releaseDate": "2025-05-01",
-      "url": "",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0306457325001360",
       "summary": "Analyzes LLM performance on knowledge graph construction tasks involving both natural and programming languages."
     },
     {
       "name": "LEARN: on the feasibility of Learner Error AutoRegressive Neural annotation",
       "publisher": "CLiC-it 2025",
-      "releaseDate": "2025-12-01",
-      "url": "",
-      "summary": "Proposes a neural approach to learner error annotation."
+      "releaseDate": "2025-08-01",
+      "url": "https://clic2025.unica.it/wp-content/uploads/2025/09/44_main_long.pdf",
+      "summary": "Proposes an LLM approach to learner error annotation."
     },
     {
       "name": "On Cross-Language Entity Label Projection and Recognition",
       "publisher": "CLiC-it 2024",
       "releaseDate": "2024-12-01",
-      "url": "",
+      "url": "https://aclanthology.org/2024.clicit-1.47.pdf",
       "summary": "Investigates multilingual label projection for entity recognition."
     },
     {
       "name": "UniBO at CheckThat! 2024: Multi-lingual and Multi-label Persuasion Technique Detection in News",
       "publisher": "CLEF 2024 Working Notes",
       "releaseDate": "2024-09-01",
-      "url": "",
+      "url": "https://ceur-ws.org/Vol-3740/paper-39.pdf",
       "summary": "Describes multilingual models for persuasion detection in news articles."
     },
     {
       "name": "On the Identification and Forecasting of Hate Speech in Inceldom",
       "publisher": "RANLP 2023",
       "releaseDate": "2023-09-01",
-      "url": "",
+      "url": "https://aclanthology.org/2023.ranlp-1.42.pdf",
       "summary": "Studies hate speech evolution in online incel communities."
     },
     {
       "name": "Hate Speech Detection in an Italian Incel Forum Using Bilingual Data for Pre-Training and Fine-Tuning",
       "publisher": "CLiC-it 2023",
       "releaseDate": "2023-12-01",
-      "url": "",
+      "url": "https://aclanthology.org/2023.clicit-1.27.pdf",
       "summary": "Applies bilingual pre-training to hate speech detection."
     },
     {
       "name": "Hate Speech According to the Law: An Analysis for Effective Detection",
       "publisher": "arXiv preprint arXiv:2412.06144",
       "releaseDate": "2024-12-01",
-      "url": "https://arxiv.org/abs/2412.06144",
+      "url": "https://arxiv.org/pdf/2412.06144",
       "summary": "Examines the legal dimension of hate speech detection."
     }
   ],
