@@ -1,7 +1,232 @@
-@article{gregor2015draw,
-  title={DRAW: A recurrent neural network for image generation},
-  author={Gregor, Karol and Danihelka, Ivo and Graves, Alex and Rezende, Danilo Jimenez and Wierstra, Daan},
-  journal={arXiv preprint, arXiv:1502.04623},
-  year={2015},
-  url={https://arxiv.org/pdf/1502.04623.pdf}
+@inproceedings{gajo2023hateclicit,
+    title={{Hate Speech Detection in an Italian Incel Forum Using Bilingual Data for Pre-Training and Fine-Tuning}},
+    booktitle = {{CLiC-it 2023: 9th Italian Conference on Computational Linguistics}},
+    author={\textbf{Paolo Gajo} and Silvia Bernardini and Adriano Ferraresi and Alberto Barrón-Cedeño},
+    year={2023},
+    volume={3596},
+    organization={CEUR-WS},
+    address={Venice, Italy},
+    crossref={clic-it-23},
+}
+
+@inproceedings{gajo2023hateranlp,
+    title = {{On the Identification and Forecasting of Hate Speech in Inceldom}},
+    author = "\textbf{Paolo Gajo} and Arianna Muti and Katerina Korre and Silvia Bernardini and Alberto Barrón-Cedeño",
+    editor = "Mitkov, Ruslan  and
+      Angelova, Galia",
+    booktitle = "Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing",
+    month = sep,
+    year = "2023",
+    address = "Varna, Bulgaria",
+    publisher = "INCOMA Ltd., Shoumen, Bulgaria",
+    url = "https://aclanthology.org/2023.ranlp-1.42",
+    pages = "373--384",
+    abstract = "Spotting hate speech in social media posts is crucial to increase the civility of the Web and has been thoroughly explored in the NLP community. For the first time, we introduce a multilingual corpus for the analysis and identification of hate speech in the domain of inceldom, built from incel Web forums in English and Italian, including expert annotation at the post level for two kinds of hate speech: misogyny and racism. This resource paves the way for the development of mono- and cross-lingual models for (a) the identification of hateful (misogynous and racist) posts and (b) the forecasting of the amount of hateful responses that a post is likely to trigger. Our experiments aim at improving the performance of Transformer-based models using masked language modeling pre-training and dataset merging. The results show that these strategies boost the models{'} performance in all settings (binary classification, multi-label classification and forecasting), especially in the cross-lingual scenarios.",
+}
+
+@inproceedings{gajo2024ner,
+    author = {\textbf{Paolo Gajo} and Alberto Barrón-Cedeño},
+    title = {{On Cross-Language Entity Label Projection and Recognition}},
+    booktitle = {{CLiC-it 2024: 10th Italian Conference on Computational Linguistics}},
+    year = {2024},
+}
+
+@inproceedings{clef-checkthat:2024:task3:UniBO,
+  author    = {\textbf{Paolo Gajo} and Luca Giordano and Alberto Barrón-Cedeño},
+  title     = {{{UniBO at CheckThat}! 2024: Multi-lingual and Multi-label Persuasion Technique Detection in News with Data Augmentation and Sequence-Token Classifiers}},
+  pages     = {426--434},
+    booktitle = "Working Notes of {CLEF} 2024 - Conference and Labs of the Evaluation Forum",
+    series = "CLEF~2024",
+    address = "Grenoble, France",
+    year = 2024
+}
+
+@inproceedings{kate2024prosecutable-coling,
+    author = {Katerina Korre and \textbf{Paolo Gajo} and Alberto Barrón-Cedeño},
+    title = {{Hate Speech According to the Law: An Analysis for Effective Detection}},
+    booktitle = {Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)"},
+    year = {2025}
+}
+
+@article{korre2024hate,
+  title={{Hate Speech According to the Law: An Analysis for Effective Detection}},
+  author={Katerina Korre and John Pavlopoulos and \textbf{Paolo Gajo} and Alberto Barr{\'o}n-Cede{\~n}o},
+  journal={arXiv preprint arXiv:2412.06144},
+  year={2024}
+}
+
+@article{gajo2025kgc,
+title = {{Natural vs Programming Language in LLM Knowledge Graph Construction}},
+journal = {Information Processing \& Management},
+volume = {62},
+number = {5},
+pages = {104195},
+year = {2025},
+issn = {0306-4573},
+doi = {https://doi.org/10.1016/j.ipm.2025.104195},
+url = {https://www.sciencedirect.com/science/article/pii/S0306457325001360},
+author = {\textbf{Paolo Gajo} and Alberto Barrón-Cedeño},
+keywords = {Knowledge graph construction, large language models, Code language models, Information extraction},
+abstract = {Research on knowledge graph construction (KGC) has recently shown great promise also thanks to the adoption of large language models (LLM) for the automatic extraction of structured information from raw text. However, most works rely on commercial, closed-source LLMs, hindering reproducibility and accessibility. We explore KGC with smaller, open-weight LLMs and investigate whether they can be used to improve upon the results obtained by systems leveraging bigger, closed-source models. Specifically, we focus on CodeKGC, a prompting framework based on GPT-3.5. We choose a variety of models either pre-trained primarily on natural language or on code and fine-tune them on three datasets used for information extraction. We fine-tune with prompts formatted either in natural language or as Python-like scripts. In addition, we optionally train the models with prompts including chain-of-thought sections. After fine-tuning, the choice of coding vs natural language prompts has a limited impact on performance, while chain-of-thought training mostly leads to a performance decrease. Moreover, we show that a LLM can be outperformed by much smaller versions on this task, after undergoing the same amount of training. We find that in general the selected lightweight LLMs outperform the much larger CodeKGC by as much as 15–20 absolute F1 points after fine-tuning. The results show that state-of-the-art KGC systems can be developed using smaller and open-weight models, enhancing research transparency, lowering compute requirements, and decreasing third-party API reliance. Code: https://github.com/TinfFoil/natcode-llm-kgc}
+}
+
+@proceedings{clic-it-23,
+    editor    = {Boschetti, Federico and
+                 Gianluca E. Lebani, Bernardo Magnini, Nicole Novielli},
+    title     = {Proceedings of the Ninth Italian Conference on Computational Linguistics (CLiC-it 2023)},
+    booktitle = {Proceedings of the Ninth Italian Conference on Computational Linguistics (CLiC-it 2023)},
+    volume    = {3596},
+    publisher = {CEUR-WS},
+    address   = {Venice, Italy},
+    year      = {2023},
+}
+
+@proceedings{evalita-23,
+    editor    = {Lai, Mirko and
+                Menini, Stefano and
+                Polignano, Marco and
+                Russo, Valentina and
+                Sprugnoli, Rachele and
+                Venturi, Giulia},
+    title     = {Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2023)},
+    booktitle = {Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2023)},
+    volume    = {3473},
+    publisher = {CEUR-WS},
+    address   = {Parma, Italy},
+    year      = {2023},
+}
+
+@proceedings{evalita-20,
+    editor    = {Basile, Valerio and
+                Croce, Danilo and
+                Di~Maro, Maria and
+                C.~Passaro, Lucia},
+    title     = {Proceedings of the Seventh Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2020)},
+    booktitle = {Proceedings of the Seventh Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2020)},
+    volume    = {2765},
+    publisher = {CEUR-WS},
+    address   = {Online event},
+    year      = {2020},
+}
+
+@proceedings{evalita-18,
+    editor    = {Caselli, Tommaso and
+                Novielli, Nicole and
+                Patti, Viviana and
+                Rosso, Paolo},
+    title     = {Proceedings of the Sixth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2018)},
+    booktitle = {Proceedings of the Sixth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2018)},
+    volume    = {2263},
+    publisher = {CEUR-WS},
+    address   = {Turin, Italy},
+    year      = {2018},
+}
+
+@proceedings{ranlp-23,
+    editor    = {Angelova, Galia and
+                Kunilovskaya, Maria and
+                Mitkov, Ruslan},
+    title     = {Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2023)},    
+    booktitle = {Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2023)},
+    volume    = {2263},
+    publisher = {INCOMA Ltd.},
+    address   = {Varna, Bulgaria},
+    year      = {2023},
+}
+
+@proceedings{clic-it-19,
+    editor    = {Bernardi, Raffaella and
+                Navigli, Roberto and
+                Semeraro, Giovanni},
+    title     = {Proceedings of the Sixth Italian Conference on Computational Linguistics (CLiC-it 2019)},
+    booktitle = {Proceedings of the Sixth Italian Conference on Computational Linguistics (CLiC-it 2019)},
+    volume    = {2481},
+    publisher = {CEUR-WS},
+    address   = {Bari, Italy},
+    year      = {2019},
+}
+
+@proceedings{emnlp-2020-2020,
+    title = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    editor = "Webber, Bonnie  and
+      Cohn, Trevor  and
+      He, Yulan  and
+      Liu, Yang",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.emnlp-main.0",
+}
+
+@proceedings{findings-2022-findings-association-linguistics-emnlp,
+    title = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+    editor = "Goldberg, Yoav  and
+      Kozareva, Zornitsa  and
+      Zhang, Yue",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-emnlp.0",
+}
+
+@proceedings{clef-2023,
+  editor       = {Avi Arampatzis and
+                  Evangelos Kanoulas and
+                  Theodora Tsikrika and
+                  Stefanos Vrochidis and
+                  Anastasia Giachanou and
+                  Dan Li and
+                  Mohammad Aliannejadi and
+                  Michalis Vlachos and
+                  Guglielmo Faggioli and
+                  Nicola Ferro},
+  title        = {Experimental {IR} Meets Multilinguality, Multimodality, and Interaction
+                  - 14th International Conference of the {CLEF} Association, {CLEF}
+                  2023, Thessaloniki, Greece, September 18-21, 2023, Proceedings},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {14163},
+  publisher    = {Springer},
+  year         = {2023},
+  url          = {https://doi.org/10.1007/978-3-031-42448-9},
+  doi          = {10.1007/978-3-031-42448-9},
+  isbn         = {978-3-031-42447-2},
+  timestamp    = {Fri, 15 Sep 2023 15:00:49 +0200},
+  biburl       = {https://dblp.org/rec/conf/clef/2023.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@misc{gajo2025dependencyparsingparameterefficientnormalization,
+      title={Dependency Parsing is More Parameter-Efficient with Normalization}, 
+      author={\textbf{Paolo Gajo} and Domenic Rosati and Hassan Sajjad and Alberto Barrón-Cedeño},
+      year={2025},
+      eprint={2505.20215},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.20215}, 
+}
+
+@inproceedings{gajo2025kdd,
+      title={Dependency Parsing is More Parameter-Efficient with Normalization}, 
+      author={\textbf{Paolo Gajo} and Domenic Rosati and Hassan Sajjad and Alberto Barrón-Cedeño},
+      year={2025},
+    booktitle = {Workshop on Machine Learning on Graphs in the Era of Generative AI (MLoG-GenAI @ KDD 2025)},
+}
+
+@inproceedings{gajo2025learn,
+    author = {\textbf{Paolo Gajo} and Daniele Polizzi and Adriano Ferraresi and Alberto Barrón-Cedeño},
+    title = {{LEARN: on the feasibility of Learner Error AutoRegressive Neural annotation}},
+    booktitle = {{CLiC-it 2025: 11th Italian Conference on Computational Linguistics}},
+    year = {2025},
+}
+
+@inproceedings{gajo2025dependency,
+  author       = {{\bf Paolo Gajo} and Domenic Rosati and Hassan Sajjad and Alberto Barrón-Cedeño},
+  title        = {{Dependency Parsing is More Parameter-Efficient with Normalization}},
+  booktitle    = {Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)},
+  year         = {2025},
+  eventdate    = {Dec 6, 2025},
+  location     = {San Diego, CA, USA},
+  url          = {https://arxiv.org/abs/2505.20215}
 }
