@@ -46,8 +46,5 @@ During my PhD, I am a **visiting researcher at Dalhousie University (Halifax, Ca
 
 ### Invited Talks
 - *Dependency Parsing on Procedural Texts*, Osaka University, 2025  
-- *Geometric Deep Learning Lecture*, Dalhousie University, 2025  
 - *Culinary Recipe Understanding and Adaptation*, Expo 2025, Osaka  
-
-You can find my publications on [Google Scholar](https://scholar.google.co.in/citations?user=t3BH6NkAAAAJ&hl=en) and my projects on [GitHub](https://github.com/paolo-gajo).  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/pgajo/).
+- *Geometric Deep Learning Lecture*, Dalhousie University, 2025  
