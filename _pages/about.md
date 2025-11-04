@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.unibo.it/en'>University of Bologna</a>. Forlì, Italy. paolo [dot] gajo2 [at] unibo [dot] it
+subtitle: PhD Candidate in Natural Language Processing @ <a href='https://www.unibo.it/en'>University of Bologna</a>
 
 profile:
   align: right
@@ -11,7 +11,8 @@ profile:
   more_info: >
     <p>University of Bologna</p>
     <p>47121 Forlì, Italy</p>
-    <p>paolo [dot] gajo2 [at] unibo [dot] it</p>
+    <p>email:</p>
+    <p>paolo[dot]gajo2[at]unibo[dot]it</p>
 
 selected_papers: true
 social: true
@@ -27,7 +28,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a PhD student in **Natural Language Processing** at the [University of Bologna](https://www.unibo.it/), working on the intersection of **graph neural networks** and **large language models**.  
+I am a PhD candidate in **Natural Language Processing** at the [University of Bologna](https://www.unibo.it/), working on the intersection of **graph neural networks** and **large language models**.  
 My research focuses on **semantic dependency parsing**, **information extraction**, and the **understanding of graph-structured texts**, with a specific interest in their application to **culinary recipe adaptation** based on user dietary constraints.
 
 During my PhD, I am a **visiting researcher at Dalhousie University (Halifax, Canada)**, collaborating with **Prof. Hassan Sajjad** on **graph-based NLP** and **text-to-graph models**.  
