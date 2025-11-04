@@ -71,8 +71,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-we-have-one-paper-accepted-at-neurips-2025-https-neurips-cc-virtual-2025-loc-san-diego-poster-117860",
-          title: 'We have one paper accepted at NeurIPS 2025: https://neurips.cc/virtual/2025/loc/san-diego/poster/117860!',
+            },},{id: "news-we-have-one-paper-accepted-at-neurips-2025-dependency-parsing-is-more-parameter-efficient-with-normalization",
+          title: 'We have one paper accepted at NeurIPS 2025: Dependency Parsing is More Parameter-Efficient...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
