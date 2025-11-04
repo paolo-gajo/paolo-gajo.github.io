@@ -63,7 +63,7 @@
     },
     {
       "name": "UniBO at CheckThat! 2024: Multi-lingual and Multi-label Persuasion Technique Detection in News",
-      "publisher": "CLEF 2024 Working Notes",
+      "publisher": "CLEF 2024",
       "releaseDate": "2024-09-01",
       "url": "https://ceur-ws.org/Vol-3740/paper-39.pdf",
       "summary": "Describes multilingual models for persuasion detection in news articles."
