@@ -31,22 +31,20 @@ latest_posts:
   limit: 3
 ---
 
-I am a PhD candidate in **Natural Language Processing** at the [University of Bologna](https://www.unibo.it/), working on the intersection of **graph neural networks** and **large language models**.  
-My research focuses on **semantic dependency parsing**, **information extraction**, and the **understanding of graph-structured texts**, with a specific interest in their application to **culinary recipe adaptation** based on user dietary constraints.
-
-During my PhD, I am a **visiting researcher at Dalhousie University (Halifax, Canada)**, collaborating with **Prof. Hassan Sajjad** on **graph-based NLP** and **text-to-graph models**.  
-I am supervised by **Prof. Alberto Barrón-Cedeño** at the University of Bologna, where I am also involved in teaching, supervision, and reviewing for **ACL Rolling Review (ARR)**.
+I am a PhD candidate in **Natural Language Processing** at the Department of Interpreting and Translation of the [University of Bologna](https://www.unibo.it/). My research focuses on **graph neural networks** and **large language models** and their application to **procedural text understanding**, **dependency parsing**, and **information extraction**. My PhD thesis focuses specifically on the **adaptation of food recipes**, based on user dietary constraints.
+I am supervised by **Prof. Alberto Barrón-Cedeño** at the University of Bologna, where I am also involved in supervising MA students, disseminating at local seminars, and teaching in reading groups at the Depa.
+During my PhD, I am a **visiting researcher at Dalhousie University (Halifax, Canada)**, collaborating with **Prof. Hassan Sajjad** and the [Hypermatrix Team](https://hypermatrix.cs.dal.ca/).
 
 ### Research Interests
-- Natural Language Processing  
-- Graph Neural Networks  
-- Large Language Models  
+- LLM planning
+- Procedural text understanding
 - Information Extraction
+- Dependency parsing
 
 ### Recent Projects
-- **Local Dish Semantic Recommendation System** – Semantic querying of regional recipes using graph-based models.  
-- **GIARA** – Gastronomy and AI for a welcoming Romagna Region.  
-- **Automatic Subtitle Segmenter** – Seq2Seq model for automatic subtitle segmentation.  
+- **Local Dish Semantic Recommendation System** – Semantic querying of Italian regional recipes.
+- **GIARA** – Realia-aware restaurant menu adaptation.
+- **Automatic Subtitle Segmenter** – Automatic subtitle segmentation model.
 
 ### Invited Talks
 - *Dependency Parsing on Procedural Texts*, Osaka University, 2025  
