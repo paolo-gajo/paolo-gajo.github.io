@@ -2,33 +2,53 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.unibo.it/en'>University of Bologna</a>. Forlì, Italy. paolo.gajo2@unibo.it
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University of Bologna</p>
+    <p>Forlì Campus, Viale Filippo Corridoni 20</p>
+    <p>47121 Forlì, Italy</p>
+    <p><a href="mailto:paolo.gajo2@unibo.it">paolo.gajo2@unibo.it</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in **Natural Language Processing** at the [University of Bologna](https://www.unibo.it/), working on the intersection of **graph neural networks** and **large language models**.  
+My research focuses on **semantic dependency parsing**, **information extraction**, and the **understanding of graph-structured texts**, with a specific interest in their application to **culinary recipe adaptation** based on user dietary constraints.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my PhD, I am a **visiting researcher at Dalhousie University (Halifax, Canada)**, collaborating with **Prof. Hassan Sajjad** on **graph-based NLP** and **text-to-graph models**.  
+I am supervised by **Prof. Alberto Barrón-Cedeño** at the University of Bologna, where I am also involved in teaching, supervision, and reviewing for **ACL Rolling Review (ARR)**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Research Interests
+- Natural Language Processing  
+- Graph Neural Networks  
+- Large Language Models  
+- Information Extraction
+
+### Recent Projects
+- **Local Dish Semantic Recommendation System** – Semantic querying of regional recipes using graph-based models.  
+- **GIARA** – Gastronomy and AI for a welcoming Romagna Region.  
+- **Automatic Subtitle Segmenter** – Seq2Seq model for automatic subtitle segmentation.  
+
+### Invited Talks
+- *Dependency Parsing on Procedural Texts*, Osaka University, 2025  
+- *Geometric Deep Learning Lecture*, Dalhousie University, 2025  
+- *Culinary Recipe Understanding and Adaptation*, Expo 2025, Osaka  
+
+You can find my publications on [Google Scholar](https://scholar.google.co.in/citations?user=t3BH6NkAAAAJ&hl=en) and my projects on [GitHub](https://github.com/paolo-gajo).  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/pgajo/).

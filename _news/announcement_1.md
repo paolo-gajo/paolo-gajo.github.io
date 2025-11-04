@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+We have one paper accepted at NeurIPS 2025: https://neurips.cc/virtual/2025/loc/san-diego/poster/117860
