@@ -6,7 +6,7 @@ subtitle: <a href='https://www.unibo.it/en'>University of Bologna</a>. Forlì, I
 
 profile:
   align: right
-  image: assets/img/nezu_cropped.jpg
+  image: nezu_cropped.jpg
   image_circular: false
   more_info: >
     <p>University of Bologna</p>
