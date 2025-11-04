@@ -28,99 +28,10 @@
       {
         "network": "Google Scholar",
         "username": "t3BH6NkAAAAJ",
-        "url": "https://scholar.google.co.in/citations?user=t3BH6NkAAAAJ&hl=en"
+        "url": "https://scholar.google.com/citations?user=ryn1awMAAAAJ"
       }
     ]
   },
-  "work": [
-    {
-      "name": "TransPerfect",
-      "position": "Freelance Translator",
-      "url": "https://www.transperfect.com/",
-      "startDate": "2016-01-01",
-      "endDate": "",
-      "summary": "Translated and subtitled materials for Blizzard Entertainment, Amazon AWS, Nickelodeon, Netflix, and mobile games. Specialized in eSports, entertainment, and accessibility subtitles.",
-      "highlights": [
-        "Over 30 Nickelodeon TV series subtitled",
-        "Subtitles for Netflix documentaries",
-        "Localization for Blizzard Entertainment eSports content"
-      ]
-    },
-    {
-      "name": "Parole O Stili",
-      "position": "Translator",
-      "url": "https://paroleostili.it/",
-      "startDate": "2022-06-01",
-      "endDate": "2023-01-01",
-      "summary": "Translated and localized training materials on non-hostile and inclusive language for schools and businesses.",
-      "highlights": ["Inclusive language education", "Training material localization"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Deep Learning Reading Group",
-      "location": "Forlì, Italy",
-      "position": "Organizer",
-      "url": "",
-      "startDate": "2025-01-01",
-      "endDate": "",
-      "summary": "Organized and presented reading sessions based on the book 'Understanding Deep Learning'.",
-      "highlights": ["Led academic discussions on deep learning theory"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Dalhousie University",
-      "location": "Halifax, Canada",
-      "url": "https://hypermatrixlab.github.io/",
-      "area": "Graph Neural Networks and Text-to-Graph Models",
-      "studyType": "Visiting Researcher (PhD exchange)",
-      "startDate": "2024-09-01",
-      "endDate": "2025-09-01",
-      "score": "",
-      "courses": [
-        "CSCI 3151 - Foundations of Machine Learning",
-        "CSCI 6908 - NLP with Deep Learning",
-        "CSCI 6516 - Deep Learning",
-        "CSCI 6904 - Deep Reinforcement Learning"
-      ]
-    },
-    {
-      "institution": "University of Bologna",
-      "location": "Forlì, Italy",
-      "url": "https://www.unibo.it/",
-      "area": "Natural Language Processing",
-      "studyType": "PhD",
-      "startDate": "2023-01-01",
-      "endDate": "",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "University of Bologna",
-      "location": "Forlì, Italy",
-      "url": "https://www.unibo.it/",
-      "area": "Specialized Translation (English, Spanish, Italian)",
-      "studyType": "MA",
-      "startDate": "2021-01-01",
-      "endDate": "2023-01-01",
-      "score": "110/110 Summa Cum Laude",
-      "courses": []
-    },
-    {
-      "institution": "Ca’ Foscari University",
-      "location": "Treviso, Italy",
-      "url": "https://www.unive.it/",
-      "area": "Linguistic and Cultural Mediation",
-      "studyType": "BA",
-      "startDate": "2018-01-01",
-      "endDate": "2021-01-01",
-      "score": "110/110 Summa Cum Laude",
-      "courses": []
-    }
-  ],
-  "awards": [],
-  "certificates": [],
   "publications": [
     {
       "name": "Dependency Parsing is More Parameter-Efficient with Normalization",
@@ -211,6 +122,95 @@
       "keywords": ["Trados", "MemoQ", "MateCat", "MultiTerm", "Subtitle Edit", "Aegisub"]
     }
   ],
+  "education": [
+    {
+      "institution": "Dalhousie University",
+      "location": "Halifax, Canada",
+      "url": "https://hypermatrixlab.github.io/",
+      "area": "Graph Neural Networks and Text-to-Graph Models",
+      "studyType": "Visiting Researcher (PhD exchange)",
+      "startDate": "2024-09-01",
+      "endDate": "2025-09-01",
+      "score": "",
+      "courses": [
+        "CSCI 3151 - Foundations of Machine Learning",
+        "CSCI 6908 - NLP with Deep Learning",
+        "CSCI 6516 - Deep Learning",
+        "CSCI 6904 - Deep Reinforcement Learning"
+      ]
+    },
+    {
+      "institution": "University of Bologna",
+      "location": "Forlì, Italy",
+      "url": "https://www.unibo.it/",
+      "area": "Natural Language Processing",
+      "studyType": "PhD",
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Bologna",
+      "location": "Forlì, Italy",
+      "url": "https://www.unibo.it/",
+      "area": "Specialized Translation (English, Spanish, Italian)",
+      "studyType": "MA",
+      "startDate": "2021-01-01",
+      "endDate": "2023-01-01",
+      "score": "110/110 Summa Cum Laude",
+      "courses": []
+    },
+    {
+      "institution": "Ca’ Foscari University",
+      "location": "Treviso, Italy",
+      "url": "https://www.unive.it/",
+      "area": "Linguistic and Cultural Mediation",
+      "studyType": "BA",
+      "startDate": "2018-01-01",
+      "endDate": "2021-01-01",
+      "score": "110/110 Summa Cum Laude",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "name": "TransPerfect",
+      "position": "Freelance Translator",
+      "url": "https://www.transperfect.com/",
+      "startDate": "2016-01-01",
+      "endDate": "",
+      "summary": "Translated and subtitled materials for Blizzard Entertainment, Amazon AWS, Nickelodeon, Netflix, and mobile games. Specialized in eSports, entertainment, and accessibility subtitles.",
+      "highlights": [
+        "Over 30 Nickelodeon TV series subtitled",
+        "Subtitles for Netflix documentaries",
+        "Localization for Blizzard Entertainment eSports content"
+      ]
+    },
+    {
+      "name": "Parole O Stili",
+      "position": "Translator",
+      "url": "https://paroleostili.it/",
+      "startDate": "2022-06-01",
+      "endDate": "2023-01-01",
+      "summary": "Translated and localized training materials on non-hostile and inclusive language for schools and businesses.",
+      "highlights": ["Inclusive language education", "Training material localization"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Deep Learning Reading Group",
+      "location": "Forlì, Italy",
+      "position": "Organizer",
+      "url": "",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "Organized and presented reading sessions based on the book 'Understanding Deep Learning'.",
+      "highlights": ["Led academic discussions on deep learning theory"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
   "languages": [
     {
       "language": "Italian",
