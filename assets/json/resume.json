@@ -2,9 +2,9 @@
   "basics": {
     "name": "Paolo Gajo",
     "label": "PhD Candidate",
-    "image": "assets/img/nezu.jpg",
-    "email": "paolo.gajo2@unibo.it",
-    "phone": "+39 345 5665 460",
+    "image": "nezu_cropped.jpg",
+    "email": "paolo [dot] gajo2 [at] unibo [dot] it",
+    "phone": "",
     "url": "https://paolo-gajo.github.io/paolo-gajo.github.io",
     "summary": "PhD student in NLP at the University of Bologna. Researching graph neural networks and large language models for semantic dependency parsing, information extraction, and understanding of graph-structured texts. Thesis focuses on automatic culinary recipe adaptation based on dietary constraints.",
     "location": {
