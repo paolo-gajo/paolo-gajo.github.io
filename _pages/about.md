@@ -9,10 +9,6 @@ profile:
   image: nezu_cropped.jpg
   image_circular: false
   more_info:
-    <p>University of Bologna</p>
-    <br>
-    <p>47121 Forlì, Italy</p>
-    <br>
     <p>email:</p>
     <br>
     <p>paolo[dot]gajo2[at]unibo[dot]it</p>
