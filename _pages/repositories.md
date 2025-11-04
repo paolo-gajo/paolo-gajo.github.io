@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 {% assign github_users = "paolo-gajo" | split: "," %}
-{% assign github_repos = "TinfFoil/natcode-llm-kgc, paolo-gajo/EfficientSDP, paolo-gajo/MNIST_Tutorial, paolo-gajo/LEARN, paolo-gajo/subtitling" | split: ", " %}
+{% assign github_repos = "TinfFoil/natcode-llm-kgc, paolo-gajo/EfficientSDP, paolo-gajo/MNIST_Tutorial, paolo-gajo/LEARN" | split: ", " %}
 
 {% if github_users %}
 
